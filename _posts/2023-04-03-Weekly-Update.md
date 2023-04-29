@@ -1,4 +1,9 @@
-# Sociology Weekly Update for April 03, 2023
+---
+title: "Forthcoming for April 03, 2023"
+date: 2023-04-03
+---
+
+# Forthcoming for April 03, 2023
 
 
 ## Education and Inequality
