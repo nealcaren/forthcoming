@@ -3,9 +3,6 @@ title: "Forthcoming for April 03, 2023"
 date: 2023-04-03
 ---
 
-# Forthcoming for April 03, 2023
-
-
 ## Education and Inequality
 
 **👨‍👧‍👦 Paternal Incarceration Affects Children's College Expectations** Using data from the Future of Families and Child Wellbeing Study, researchers found negative effects of paternal incarceration on children's perceptions of the likelihood of college graduation, particularly for Black youth. The study recommends that the educational expectations literature is updated to better account for the racialized implications of mass incarceration in the United States. Anna R.  Haskins, Wade C.  Jacobsen, Joel  Mittleman. *Sociology of Education* [Link](https://doi.org/10.1177/00380407231167412)
