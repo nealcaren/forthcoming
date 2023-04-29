@@ -1,5 +1,5 @@
 ---
-title: "Forthcoming for April 03, 2023"
+title: "What's new this week"
 date: 2023-04-03
 ---
 
