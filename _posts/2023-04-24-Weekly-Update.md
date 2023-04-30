@@ -34,7 +34,7 @@ date: 2023-04-24
 
 **📉🤔 Income Inequality and Justice** This study examines justice evaluations of income inequality among more than 72,000 respondents in 29 countries using data from the International Social Survey Programme and the European Social Survey. Results reveal that injustice of the income distribution prevails in all studied countries except Denmark, and injustice of bottom incomes prevails in all countries. Moreover, in the countries included in both the ISSP and ESS, the share of respondents evaluating the overall income distribution as just always falls between the share evaluating bottom and top incomes as just. Cristóbal  Moya, Jule  Adriaans, Carsten  Sauer. *Socius* [Link](https://doi.org/10.1177/23780231231171581)
 
-## Quantitative Methods
+## Self Study
 
 **📝 Sociology sees increase in coauthoring** Over 180,000 articles published in 110 sociology journals reveal that coauthoring has become increasingly common, with more than 55% of articles published in 2022 being coauthored. The trend toward coauthorship holds across regions and journal types despite some variability across individual journals. Dustin S.  Stoltz. *Socius* [Link](https://doi.org/10.1177/23780231231171115)
 

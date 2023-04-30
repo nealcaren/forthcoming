@@ -15,7 +15,7 @@ date: 2023-03-20
 
 **🔍 Human rights diffusion through global forum** The Universal Periodic Review (UPR) is analyzed to provide new insight into human rights diffusion. The study converts roughly 50,000 recommendations from the first two cycles of the UPR into a relational dataset of states making and receiving recommendations. Results show that accepted recommendations tend to be more general and easier to implement. Studying partnership patterns suggest the existence of normative corridors that shape world society. Sendroiu, Ioana, Levi, Ron. *Social Forces* [Link](https://doi.org/10.1093/sf/soad020)
 
-## Social Psychology
+## Social Psychology and Culture
 
 **👨‍👩‍👧‍👦💔🙅‍♀️ Family Ties Decrease Trust in Strangers** Replicating an experimental trust-game study, we find strong family ties stunt the growth of trust in strangers, supporting Toshio Yamagishi’s emancipatory theory of trust. Our study provides indirect evidence of causation and contributes to understanding classic ethnographic studies. John  Ermisch, Diego  Gambetta, Sergio Lo  Iacono, Burak  Sonmez. *Social Psychology Quarterly* [Link](https://doi.org/10.1177/01902725231162074)
 
@@ -43,7 +43,7 @@ date: 2023-03-20
 
 **💰👩🏽‍💼 National Gender Pay Gaps** Using merged data, a new study analyzes the contribution of firm, occupation, and job segregation to gender pay gaps in the US over the past decade. The authors find that reducing gender disparities in hiring and job assignment may be essential in reducing gender pay gaps. Joseph  King, Matthew  Mendoza, Andrew  Penner, Anthony  Rainey, Donald  Tomaskovic-Devey. *Socius* [Link](https://doi.org/10.1177/23780231231157678)
 
-## Environmental Sociology
+## Environment and Protest
 
 **🧠 The concept of ambivalent action and its relevance to #BlackoutTuesday** This article proposes the concept of 'ambivalent action,' a category of moral action defined by conflicting intentions that are not resolved by the act, and examines its relevance to the #BlackoutTuesday social media movement created in response to global protests against police brutality and racism. Using interdisciplinary perspectives, including links to quantum physics, the article argues that the black square that characterized the movement's posts embodies both silence and speech, creating a duality that is interpreted by the audience. Adam Valen Levinson. *Sociological Forum* [Link](https://doi.org/10.1111/socf.12889)
 
