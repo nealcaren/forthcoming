@@ -3,9 +3,15 @@ title: "What's new this week"
 date: 2023-05-22
 ---
 
-## Race, Ethnicity, and Immigration
+## Insights into Sociological Research
 
-**📈 National origin, racial appearance and prior identification when responding to Latinx ethnicity questions shape identification as Latinx among mixed race respondents** Latinx Americans divide on skin tone in models of education and health, but they divide on national origin when dating interracially. The study examines those who identify as Hispanic/Latinx when permitted to respond on a combined race/ethnicity question. The study also reveals four significant predictors of self-identification as Latinx. These predictors have consequences in samples with both Latinx and non-Latinx respondents. Researchers should operationalize Latinxs using measures that recognize a modal group of Latinx-only identifiers. This can capture heterogeneity by skin tone and national origin across the broader ever-Latinx population. Jiannbin Lee  Shiao. *Socius* [Link](https://doi.org/10.1177/23780231231174830)
+**📊🙋‍♀️ Public Sociology Awards go to Early Career and Post-Tenure scholars** The Eastern Sociological Society has created Public Sociology Awards for Early Career and Post-Tenure scholars to recognize their contributions to publicly engaged sociology. This Special Issue highlights several contributions in the field, spanning various levels of society, and across all stages of sociological careers. The articles describe basic research and its societal implications, hazards of socially engaged work, as well as national and local projects promoting play among elementary schools or advocating for naturalized immigrants' citizenship rights. Robert Courtney Smith. *Sociological Forum* [Link](https://doi.org/10.1111/socf.12901)
+
+**🔍 Sociology and post-truth politics** Believing is crucial for public sociology according to this article. It explores how the practice of believing is a skill that can link academia and politics. It argues that we need better frameworks to realize the practical and ethical potential of sociology. Lastly, the article outlines how believing can help make the work of Sociology more robust, create better connections with others, and make social systems more responsive and adaptive. Meghan Elizabeth Kallman. *Sociological Forum* [Link](https://doi.org/10.1111/socf.12904)
+
+## Violence and Justice
+
+**🚔🐘 White Republican Police Officers More Likely to Target Motorists of Color, Study Finds** White Republican police officers are more likely to conduct searches on motorists of color, according to the study. The researchers analyzed millions of traffic stop records from the Florida Highway Patrol and linked them to voter records. The study revealed that both White Republican and White Democratic officers grew more biased towards racial disparities between 2012 and 2020, coinciding with the rise of the Black Lives Matter movement and the election of Donald Trump as President. Samuel Thomas  Donahue. *American Sociological Review* [Link](https://doi.org/10.1177/00031224231173070)
 
 ## Reproductive Justice
 
@@ -13,27 +19,9 @@ date: 2023-05-22
 
 **🩸👩 Gender, Race, and Hysterectomy: Exploring the Relationship between Reproductive Health Practices and Social Stratification** This article explores how medical practices such as hysterectomy are constrained by and contribute to gender, race, and stratified reproduction. Using 100 interviews with patients who had, want, or are considering hysterectomy, the author examines patient-provider interactions and emotional reactions across cis women, trans men, and nonbinary groups as well as across race. The findings reveal persistent reproductive stratification by social positionality, and introduce the concept of opting into infertility. Andréa  Becker. *Gender & Society* [Link](https://doi.org/10.1177/08912432231175655)
 
-## Inequities in Education
-
-**🎓 Online Education Linked to Worse Educational Outcomes at Non-Profit and For-Profit Universities** Black and low-income students are disproportionately represented in non-profit online programs. Using institutional and individual data, this study finds that online education is associated with lower retention and graduation rates, as well as student loan repayment problems. The authors argue that online education is a form of “predatory inclusion” and that providing online education may produce poor student outcomes, particularly within the for-profit sector. Smith, Christian Michael, Villalobos, Amber D, Hamilton, Laura T, Eaton, Charlie. *Social Forces* [Link](https://doi.org/10.1093/sf/soad074)
-
-## Societal Impacts of the COVID-19 Pandemic
-
-**💼🏠 COVID-19 Remote Work in Europe** During COVID-19 lockdown measures, many Europeans began working remotely. This research examines factors that influenced how individual-level characteristics like age, health, education, and income contributed to remote work. Higher societal digitalization reduced the positive association between education and fully remote work. During epidemics, policies and programs should address remote working capabilities of older individuals with fewer years of education, fewer skills with modern digital technologies, and in worse health, especially in less digitally developed nations hardest hit by the epidemic. Jason  Settels. *Sociological Perspectives* [Link](https://doi.org/10.1177/07311214231167171)
-
-## Insights into Sociological Research
-
-**📊🙋‍♀️ Public Sociology Awards go to Early Career and Post-Tenure scholars** The Eastern Sociological Society has created Public Sociology Awards for Early Career and Post-Tenure scholars to recognize their contributions to publicly engaged sociology. This Special Issue highlights several contributions in the field, spanning various levels of society, and across all stages of sociological careers. The articles describe basic research and its societal implications, hazards of socially engaged work, as well as national and local projects promoting play among elementary schools or advocating for naturalized immigrants' citizenship rights. Robert Courtney Smith. *Sociological Forum* [Link](https://doi.org/10.1111/socf.12901)
-
-**🔍 Sociology and post-truth politics** Believing is crucial for public sociology according to this article. It explores how the practice of believing is a skill that can link academia and politics. It argues that we need better frameworks to realize the practical and ethical potential of sociology. Lastly, the article outlines how believing can help make the work of Sociology more robust, create better connections with others, and make social systems more responsive and adaptive. Meghan Elizabeth Kallman. *Sociological Forum* [Link](https://doi.org/10.1111/socf.12904)
-
 ## Health Inequalities
 
 **🧑‍🤝‍🧑🧠 Association between Immigration-Related Discrimination and Mental Health Outcomes among Latino Students** Perceived immigration-related discrimination is associated with increased depression and anxiety among Latino undergraduate students who are undocumented or have undocumented parents. Interviews show that such discrimination manifests in family and community domains, not just individual experiences. These results indicate negative implications for the mental health of undocumented immigrants and mixed-status family members. Victoria E.  Rodriguez, Laura E.  Enriquez, Annie  Ro, Cecilia  Ayón. *Journal of Health and Social Behavior* [Link](https://doi.org/10.1177/00221465231168912)
-
-## Violence and Justice
-
-**🚔🐘 White Republican Police Officers More Likely to Target Motorists of Color, Study Finds** White Republican police officers are more likely to conduct searches on motorists of color, according to the study. The researchers analyzed millions of traffic stop records from the Florida Highway Patrol and linked them to voter records. The study revealed that both White Republican and White Democratic officers grew more biased towards racial disparities between 2012 and 2020, coinciding with the rise of the Black Lives Matter movement and the election of Donald Trump as President. Samuel Thomas  Donahue. *American Sociological Review* [Link](https://doi.org/10.1177/00031224231173070)
 
 ## Social Movements
 
@@ -42,6 +30,18 @@ date: 2023-05-22
 **👊BLM Protests Linked to Increased Voting for Democrats in 2020 Election** We investigate the impact of Black Lives Matter (BLM) protests on the 2020 US presidential election. Our analysis of media, official election returns, and survey data shows that BLM protests were associated with increased voting for the Democratic candidate. The impact was stronger for less contentious events. Our findings suggest that protest plays a significant role in shaping electoral behavior, supporting emerging evidence and theoretical claims in this field. Neal  Caren, Kenneth T.  Andrews, Micah H.  Nelson. *Social Movement Studies* [Link](https://doi.org/10.1080/14742837.2023.2216652)
 
 **🏳️‍⚧️ Support from Within: Transgender Organizers Share Their Experiences** This project conducted qualitative interviews with 15 transgender grassroots organizers in the US Southeast to explore the experiences of those who facilitate peer support for trans people. Findings suggest that more resources are needed to sustain grassroots work in trans communities, and to create a livable environment for trans communities. Austin H.  Johnson, Baker A.  Rogers, Ivy  Hill, Rose  Bialer. *Social Movement Studies* [Link](https://doi.org/10.1080/14742837.2023.2216638)
+
+## Inequities in Education
+
+**🎓 Online Education Linked to Worse Educational Outcomes at Non-Profit and For-Profit Universities** Black and low-income students are disproportionately represented in non-profit online programs. Using institutional and individual data, this study finds that online education is associated with lower retention and graduation rates, as well as student loan repayment problems. The authors argue that online education is a form of “predatory inclusion” and that providing online education may produce poor student outcomes, particularly within the for-profit sector. Smith, Christian Michael, Villalobos, Amber D, Hamilton, Laura T, Eaton, Charlie. *Social Forces* [Link](https://doi.org/10.1093/sf/soad074)
+
+## Race, Ethnicity, and Immigration
+
+**📈 National origin, racial appearance and prior identification when responding to Latinx ethnicity questions shape identification as Latinx among mixed race respondents** Latinx Americans divide on skin tone in models of education and health, but they divide on national origin when dating interracially. The study examines those who identify as Hispanic/Latinx when permitted to respond on a combined race/ethnicity question. The study also reveals four significant predictors of self-identification as Latinx. These predictors have consequences in samples with both Latinx and non-Latinx respondents. Researchers should operationalize Latinxs using measures that recognize a modal group of Latinx-only identifiers. This can capture heterogeneity by skin tone and national origin across the broader ever-Latinx population. Jiannbin Lee  Shiao. *Socius* [Link](https://doi.org/10.1177/23780231231174830)
+
+## Societal Impacts of the COVID-19 Pandemic
+
+**💼🏠 COVID-19 Remote Work in Europe** During COVID-19 lockdown measures, many Europeans began working remotely. This research examines factors that influenced how individual-level characteristics like age, health, education, and income contributed to remote work. Higher societal digitalization reduced the positive association between education and fully remote work. During epidemics, policies and programs should address remote working capabilities of older individuals with fewer years of education, fewer skills with modern digital technologies, and in worse health, especially in less digitally developed nations hardest hit by the epidemic. Jason  Settels. *Sociological Perspectives* [Link](https://doi.org/10.1177/07311214231167171)
 
 ## Health and Well-being
 
